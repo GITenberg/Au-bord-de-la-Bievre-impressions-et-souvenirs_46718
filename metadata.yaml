@@ -1,10 +1,16 @@
 _repo: Au-bord-de-la-Bievre-impressions-et-souvenirs_46718
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46718-h/images/cover.jpg
 creator:
   author:
     agent_name: Delvau, Alfred
     gutenberg_agent_id: '43123'
     url: http://www.gutenberg.org/2009/agents/43123
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46718#Au-bord-de-la-Bievre-impressions-et-souvenirs
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2014-08-29'
 gutenberg_type: Text
